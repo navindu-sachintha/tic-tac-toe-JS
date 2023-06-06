@@ -56,3 +56,7 @@ function checkScore (){
 
 
 }
+
+function reset(){
+  document.location.reload()
+}
